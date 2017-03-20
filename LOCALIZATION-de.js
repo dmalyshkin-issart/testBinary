@@ -1,4 +1,5 @@
 ﻿Ext.ns("Apd.LOCALE.ACTIONS");
+Ext.ns("Apd.LOCALE.ACTIONS");
 Apd.LOCALE.ACTIONS.BLOGSDIALOG_LABEL = "Blogdialog";
 Apd.LOCALE.ACTIONS.DEBUGSCREEN_TITLE = "Einfacher Komponententester";
 Apd.LOCALE.ACTIONS.FCKLINKMAKER_LABEL = "FCK Link Erzeuger";
